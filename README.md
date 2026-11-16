@@ -1,3 +1,5 @@
+🇬🇧 English · 🇮🇹 [Italiano](README.it.md)
+
 # Library Manager
 
 A full-stack app for a public library: a catalog anyone can browse, with live availability of the library's copies, and a REST API to manage books, genres, loans, users and roles.
