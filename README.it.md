@@ -255,4 +255,4 @@ Il backend supporta già queste funzionalità; il prossimo passo è la loro inte
 
 ## Autore
 
-Claudio Giasi: [GitHub](https://github.com/TheRedKardinal) · [LinkedIn](https://www.linkedin.com/in/claudio-giasi-8836b5243/)
+Claudio Giasi: [GitHub](https://github.com/TheRedKardinal) · [LinkedIn](https://www.linkedin.com/in/claudio-giasi/)
